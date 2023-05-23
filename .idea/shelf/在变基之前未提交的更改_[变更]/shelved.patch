@@ -1,0 +1,11 @@
+Index: test4.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test4.txt b/test4.txt
+new file mode 100644
+--- /dev/null	(date 1684832593526)
++++ b/test4.txt	(date 1684832593526)
+@@ -0,0 +1,1 @@
++qqqq
